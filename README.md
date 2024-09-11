@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+<div>
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=joaooGabriel&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&border_radius=10&hide_border=true&bg_color=272A34&locale=pt-br"/>
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaooGabriel&layout=compact&langs_count=16&theme=gotham&border_radius=10&hide_border=true&bg_color=272A34&locale=pt-br"/>
+</div>
+
 <!--
 **JoaooGabriel/JoaooGabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
